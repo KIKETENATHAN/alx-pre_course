@@ -1,2 +1,2 @@
-My first readme
-READ me update from github.com
+ serious updated read me from github.com 
+
